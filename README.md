@@ -50,14 +50,3 @@ Optimized for best performance.
 
 ---
 
-## 📦 Deployment
-
-You can deploy this app using:
-
-- **Vercel**
-- **Netlify**
-- **GitHub Pages**
-
-Let me know if you want deployment help!
-
----
