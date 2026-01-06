@@ -23,14 +23,7 @@ In the project directory, run:
 
 #### `npm start`
 
-Runs the app in development mode.  
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
-The page reloads when you make edits.
 
-#### `npm run build`
-
-Builds the app for production to the `build/` folder.  
-Optimized for best performance.
 
 ---
 
